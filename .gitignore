@@ -1,3 +1,13 @@
 # Idea
 .idea
 *.iml
+
+
+# Backend
+__pycache__
+*.pyc
+backend/.venv
+
+
+# Frontend
+frontend/node_modules
